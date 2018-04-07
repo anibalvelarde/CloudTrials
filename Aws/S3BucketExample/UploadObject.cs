@@ -5,6 +5,9 @@ using Amazon.S3.Model;
 
 namespace S3BucketExample
 {
+    /// <summary>
+    /// Example that shows how to upload files to an AWS S3 Bucket
+    /// </summary>
     class UploadObject
     {
         static string bucketName = @"Type-It-In";
