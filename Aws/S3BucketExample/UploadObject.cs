@@ -40,6 +40,7 @@ namespace S3BucketExample
         }
 
         /// <summary>
+        /// IMPORTANT:
         /// This creates an AWS user profile entry in the file located in this 
         /// folder: C:\Users\<username>\AppData\Local\AWSToolkit\RegisteredAccounts.json
         /// 
